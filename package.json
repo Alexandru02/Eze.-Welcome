@@ -2,7 +2,7 @@
   "name": "imbebas",
   "version": "0.0.1",
   "description": "imBot un bot creat pentru distractie si moderare.",
-  "main": "go",
+  "main": "bot",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
